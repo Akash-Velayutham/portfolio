@@ -1,7 +1,7 @@
 # Senior Automotive and Systems Engineer 
 
 ## Links
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-velayutham/)
+[![text](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akash-velayutham/)
 
 ## Education
 - B.E., ECE | Arunai Engineering College, Tiruvannamalai (2015-2019)
