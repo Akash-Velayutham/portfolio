@@ -1,7 +1,10 @@
-# Senior Systems Engineer 
+# Senior Automotive and Systems Engineer 
 
 ## Education
-Bachelor of Engineering Electronics and Communication Engineering
+- B.E., Electronics and Communication Engineering | Arunai Engineering College, Tiruvannamalai (2015-2019)
 
 ## Work Experience
-5 years of experience (Started Engineering journey from the year of 2019)
+**Build and Release Engineer @ Volvo Groups, Bangalore (2024 - Current)**
+
+**Integration Engineer and Tooling Engineer @ Jasmin Infotech, Chennai (2019 - 2024)**
+
