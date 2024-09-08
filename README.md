@@ -4,7 +4,7 @@
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-velayutham/)
 
 ## Education
-- B.E., ECE | Arunai Engineering College, Tiruvannamalai (2015-2019)
+- B.E., Electronics and Communication Engineering, Arunai Engineering College - Tiruvannamalai (2015-2019)
 
 ## Work Experience
 **Build and Release Engineer @ Volvo Groups, Bangalore (2024 - Current)**
